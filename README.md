@@ -1,4 +1,4 @@
-# auto-nunit-specflow
+# Spd-shopping
 
 Testautomation framework using c#, nunit and specflow
 

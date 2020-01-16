@@ -19,7 +19,7 @@ Testautomation framework using c#, nunit and specflow
 ## Running the tests
 
 pretty way
-1. Using VS Test Explorer > Run All. Default Browser will be Chrome, version required is 74
+1. Using VS Test Explorer > Run All. Default Browser will be Chrome, version required is 79
 
 not so pretty way
 1. open terminal 
